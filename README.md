@@ -6,8 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas-pratim-dutta&label=Profile%20views&color=0e75b6&style=flat" alt="manas-pratim-dutta" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/manas_pratim_" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/manas_pratim_?logo=twitter&style=for-the-badge" alt="https://twitter.com/manas_pratim_" /></a> </p>
-
+ 
 - 🔭 I’m currently working on **Web developement**
 
 - 🌱 I’m currently learning **UX Design (Google UX Design Certificate)**
