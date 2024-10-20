@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://twitter.com/Manas_pratim_**
 
-- ⚡ Fun fact **Party Animal..**
+- ⚡ Fun fact 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
